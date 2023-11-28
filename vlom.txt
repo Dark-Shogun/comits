@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hello   nevajno
 death
+=======
+hello
+death
+
+fatal
+>>>>>>> masteryoda
